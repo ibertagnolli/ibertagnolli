@@ -34,7 +34,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I like to paint, draw and go outside.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: irosebertagnolli@gmail.com
 
 ---
 
