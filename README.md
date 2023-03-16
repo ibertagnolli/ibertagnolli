@@ -4,7 +4,7 @@
   <img src="https://giphy.com/embed/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 <div align="center">
-  <img src="https://giphy.com/embed/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="270" </img>
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="480" height="270" </img>
 </div>
 <!--
 **ibertagnolli/ibertagnolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
