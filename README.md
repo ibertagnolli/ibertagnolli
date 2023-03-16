@@ -7,34 +7,25 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>-->
 
-
-- 🔭 I’m currently working on my Website https://ibertagnolli.github.io and a mobile app
-- 🌱 I’m currently learning Kotlin, Greedy Algorithms and SVMs
-- 💬 Ask me about ...
-- 📫 How to reach me: Email me irosebertagnolli@gmail.com
-- 😄 Pronouns: She/Her
--->
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/isabella-bertagnolli/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
 --- 
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
-
-- :telescope: I’m a student at the University of Utah, currently TAing for Software Practice 1.
+- 🔭 I’m currently working on my Website https://ibertagnolli.github.io and a mobile app
 
 - :seedling: Exploring Mobile App Development 
 
 - :zap: In my free time, I like to paint, draw and go outside.
 
 - :mailbox:How to reach me: irosebertagnolli@gmail.com
+- <div id="badges">
+  <a href="https://www.linkedin.com/in/isabella-bertagnolli/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 ---
 
