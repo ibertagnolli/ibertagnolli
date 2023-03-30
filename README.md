@@ -15,9 +15,9 @@
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
 - 🔭 I’m currently working on my Website https://ibertagnolli.github.io and a mobile app
 
-- :seedling: Exploring Mobile App Development 
+- :seedling: Exploring Mobile App Development, Machine Learning and React
 
-- :zap: In my free time, I like to paint, draw and go outside.
+- :zap: In my free time, I like to paint, draw and go outside!
 
 - :mailbox:How to reach me: irosebertagnolli@gmail.com
 - <div id="badges">
