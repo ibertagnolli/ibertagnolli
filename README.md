@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 --- 
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah and a recent graduate from the University of Utah.
 - 🔭 I’m currently working on my Website https://ibertagnolli.github.io and a mobile app https://ibertagnolli.github.io/nextjs-babysteps_website/ 
 
 - :seedling: Exploring Mobile App Development, Machine Learning and React
