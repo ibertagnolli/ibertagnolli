@@ -1,5 +1,5 @@
 <h1>
-  hey there
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -12,12 +12,12 @@
 ### :woman_technologist: About Me :
 --- 
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah and a recent graduate from the University of Utah.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the Cloud Release Engineering team at Hashicorp and a recent graduate from the University of Utah.
 - 🔭 I’m currently working on my Website https://ibertagnolli.github.io and a mobile app https://ibertagnolli.github.io/nextjs-babysteps_website/ 
 
-- :seedling: Exploring Mobile App Development, Machine Learning and React
+- :seedling: Exploring Mobile App Development in Swift and React
 
-- :zap: In my free time, I like to paint, draw, and go outside!
+- :zap: In my free time, I like to paint, draw, and go outside! Specifically I love to mountain bike, hike and canyoneer.
 
 - :mailbox:How to reach me: irosebertagnolli@gmail.com
 - <div id="badges">
@@ -38,6 +38,5 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
