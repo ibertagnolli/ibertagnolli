@@ -15,17 +15,12 @@ I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I like to paint, draw, and go outside! Specifically, I love to mountain bike, hike, and backpack. 🚵‍♀️
 
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me:
   -  irosebertagnolli@gmail.com
-  - ✔️ Lets [connect](https://www.linkedin.com/in/isabella-bertagnolli/) if you're interested in any of the above  
-  <a href="https://www.linkedin.com/in/isabella-bertagnolli/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width=20 height=20 alt="LinkedIn Badge"/>
-  </a>
-
+  - <a href="https://www.linkedin.com/in/isabella-bertagnolli/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width=20 height=20 alt="LinkedIn Badge"/> </a> Lets <a href=https://www.linkedin.com/in/isabella-bertagnolli/>connect</a> if you're interested in any of the above! 
 ---
-
 #### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
@@ -33,9 +28,7 @@ I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-
 </div>
