@@ -1,24 +1,19 @@
-<h1>
+<h2>
   Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+</h2>
 
 <!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>-->
 
----
-
-### :woman_technologist: About Me :
---- 
-
+#### :woman_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the Cloud Release Engineering team at Hashicorp and a recent graduate from the University of Utah.  
-
-- 🔭 I’m currently working on release tooling in Go <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width=30 height=30/> at Hashicorp. 
-
+- 🔭 I’m currently working on release tooling in Go <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width=30 height=30/> at Hashicorp.
+ 
 - ❗ Previously was working on [my Website](https://ibertagnolli.github.io) and a mobile app [Babysteps App](https://ibertagnolli.github.io/nextjs-babysteps_website/) (These are in need of an update!) 
-
-- :seedling: Exploring Mobile App Development mostly in Flutter, but some attempts to learn Swift and React.
+  - :seedling: Exploring Mobile App Development mostly in Flutter, but some attempts to learn Swift and React.
+  - 🙃 I did some ML stuff before it was cool... Check out the Repo [here](https://github.com/ibertagnolli/vangan) and my old science fair photos [here](https://s3.amazonaws.com/usef-photos/2020/projects/11294/original/VanGan.jpg?1584804291) 
 
 - 😮‍💨 Working through Neetcode's 150 (maybe this time I will actually finish them) and reading Designing Data Intensive Applications. 📖
 
@@ -26,7 +21,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 📝 You can check out my blog [here](https://medium.com/@irosebertagnolli) although it's questionable advice at best. 
   - Or my brother's blog which is objectively better [here](https://nbertagnolli.medium.com/) 
-- 🙃 I did some ML stuff before it was cool... Check out the Repo [here](https://github.com/ibertagnolli/vangan) and my old science fair photos [here](https://s3.amazonaws.com/usef-photos/2020/projects/11294/original/VanGan.jpg?1584804291) 
+
 - :mailbox:How to reach me: irosebertagnolli@gmail.com
 - ✔️ Lets connect if you're interested in any of the above :)  <div id="badges">
   <a href="https://www.linkedin.com/in/isabella-bertagnolli/">
