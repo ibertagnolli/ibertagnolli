@@ -8,7 +8,7 @@
 </div>-->
 
 #### :woman_technologist: About Me :
-I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the Cloud Release Engineering team at Hashicorp and a recent graduate from the University of Utah.  
+I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the Cloud Release Engineering team at Hashicorp.  
 - 🔭 I’m currently working on release tooling in Go <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width=30 height=30/> at Hashicorp.
  
 - ❗ Previously I was working on [my Website](https://ibertagnolli.github.io) and a mobile app [Babysteps App](https://ibertagnolli.github.io/nextjs-babysteps_website/) (These are in need of an update!) 
