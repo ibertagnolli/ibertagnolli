@@ -9,8 +9,8 @@
 
 #### :woman_technologist: About Me :
 I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the Delivery Intelligence team at Hashicorp/IBM.  
-- 🔭 I’m currently working on a Risk informed deployment platform for assessing change risk before it reaches production. 
-- ❗ Previously I working on release tooling in Go <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width=30 height=30/> at Hashicorp.
+- 🔭 I’m currently working on a Risk informed deployment platform for assessing change risk before it reaches production. We've recently built a datalake that ingests critical deployment information  all deployments, prs, changes and incidents and we are using that to train a model for risk prediction!
+- ❗ Previously I was working on release tooling in Go <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width=30 height=30/> at Hashicorp on the cloud release engineering team.
 
 - :zap: In my free time, I like to paint, draw, and go outside! Specifically, I love to mountain bike, hike, and backpack. 🚵‍♀️
 
